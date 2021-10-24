@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BowlingScoreCalculator.API", "BowlingScoreCalculator.API\BowlingScoreCalculator.API.csproj", "{BE2D038F-C6AA-45E4-BAB3-9F8936993C09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingScoreCalculator.API.UnitTests", "BowlingScoreCalculator.API.UnitTests\BowlingScoreCalculator.API.UnitTests.csproj", "{670BBAC9-A881-49B4-9F31-D3E20F81E1F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2D038F-C6AA-45E4-BAB3-9F8936993C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2D038F-C6AA-45E4-BAB3-9F8936993C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2D038F-C6AA-45E4-BAB3-9F8936993C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2D038F-C6AA-45E4-BAB3-9F8936993C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{670BBAC9-A881-49B4-9F31-D3E20F81E1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670BBAC9-A881-49B4-9F31-D3E20F81E1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670BBAC9-A881-49B4-9F31-D3E20F81E1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670BBAC9-A881-49B4-9F31-D3E20F81E1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {243E8BD3-B075-47A8-929B-D4A3E02613B2}
+	EndGlobalSection
+EndGlobal
