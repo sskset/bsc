@@ -4,7 +4,7 @@
    * Visual Studio 2019
 
 ## Startup
-    ![](startup.jpg)
+    ![](./startup.jpg)
 
 ## Runtime
 * POST to http://localhost:5000/api/scores
