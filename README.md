@@ -4,7 +4,7 @@
    * Visual Studio 2019
 
 ## Startup
-    ![Startup](https://github.com/sskset/bsc/startup.jpg)
+    ![Startup](startup.jpg)
 
 ## Runtime
 * POST to http://localhost:5000/api/scores
