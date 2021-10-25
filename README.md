@@ -3,6 +3,9 @@
 ## Development
    * Visual Studio 2019
 
+## Startup
+    ![Startup](https://github.com/sskset/bsc/startup.png)
+
 ## Runtime
 * POST to http://localhost:5000/api/scores
 * Request payload samples
